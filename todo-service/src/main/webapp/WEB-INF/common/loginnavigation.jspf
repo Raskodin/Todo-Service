@@ -1,0 +1,10 @@
+<nav class="navbar navbar-expand-sm bg-info navbar-dark">
+
+	<a href="http://www.ekomera.com.tr" class="navbar-brand"> Ekomera-TodoService </a>
+
+	<ul class="ml-auto navbar-nav">
+		<li><a class="nav-link" href="/login.do">Login</a></li>
+		<li><a class="nav-link" href="/registration.do">Sign-Up &nbsp;</a></li>
+	</ul>
+
+</nav>
